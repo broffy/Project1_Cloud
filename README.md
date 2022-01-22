@@ -12,11 +12,14 @@ Usluga zostala opracowana na bazie laboratorium 9 \
 Uruchamianie
 ```
 1.git clone https://github.com/broffy/Project1_Cloud.git 
+```
 
 ```
 2.docker compose -f docker-compose.dev.yml up 
+```
 
 ```
-3.http://localhost\
-
+3.http://localhost
+```
+\
     https://github.com/broffy/Project1_Cloud/blob/main/client/src/working.png
