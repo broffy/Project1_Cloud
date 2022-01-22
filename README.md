@@ -2,13 +2,16 @@
 
 
 Usluga zostala opracowana na bazie laboratorium 9 \
-      Zmienione rzeczy:
-      Dockerfile : uzywanie uzytkownika node , dodanie wersji dev;
-      docker-compose: dodanie wersji dev i klienckiej;
-      Strona: dodanie podstron, zmiana css;
-      Port: zmiana portu 3050 na localhost;
+      Zmienione rzeczy:\
+      Dockerfile : uzywanie uzytkownika node , dodanie wersji dev;\
+      docker-compose: dodanie wersji dev i klienckiej;\
+      Strona: dodanie podstron, zmiana css;\
+      Port: zmiana portu 3050 na localhost;\
       
       
-   
-     
+Uruchamianie
+
+1.<git clone https://github.com/sz3jdii/PFSwChO_Z_1.git>
+2.<docker compose -f docker-compose.dev.yml up >
+3.<http://localhost>
     <img src={working} width="700px" height="400px" alt="working" />
