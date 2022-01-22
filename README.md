@@ -1,7 +1,7 @@
 # Project1_Cloud
 
 
-Usluga zostala opracowana na bazie laboratorium 9 \n
+Usluga zostala opracowana na bazie laboratorium 9 \
       Zmienione rzeczy:
       Dockerfile : uzywanie uzytkownika node , dodanie wersji dev;
       docker-compose: dodanie wersji dev i klienckiej;
