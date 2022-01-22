@@ -22,4 +22,4 @@ Uruchamianie
 3.http://localhost
 ```
 \
-    (https://github.com/broffy/Project1_Cloud/blob/main/client/src/working.png)
+    ![Test Image 1](https://github.com/broffy/Project1_Cloud/blob/main/client/src/working.png)
