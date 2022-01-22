@@ -19,4 +19,4 @@ Uruchamianie
 ```
 3.http://localhost\
 ```
-    <img src={working} width="700px" height="400px" alt="working" />
+    https://github.com/broffy/Project1_Cloud/blob/main/client/src/working.png
