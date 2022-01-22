@@ -7,6 +7,7 @@ Usluga zostala opracowana na bazie laboratorium 9 \
       docker-compose: dodanie wersji dev i klienckiej;\
       Strona: dodanie podstron, zmiana css;\
       Port: zmiana portu 3050 na localhost;\
+      Dodanie pliku .example.env do wersji klienckiej
       
       
 Uruchamianie
